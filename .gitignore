@@ -2,5 +2,6 @@
 /.idea/
 /.vscode/
 /bulid/
+/bulid/lib/conffey/
 /dist/
 /conffey.egg-info/
